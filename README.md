@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Abdul%20Muhaymin&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Dev%20|%20Quantum%20Explorer&descAlignY=62&descSize=20" />
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=00f2ff&center=true&vCenter=true&width=700&lines=ABDUL+MUHAYMIN;Product+Designer+Who+Engineers;FullStack+Engineer;AI+Integration;Building+Scalable+Systems;Problem+Solver" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=1C2C5B&center=true&vCenter=true&width=700&lines=ABDUL+MUHAYMIN;Product+Designer+Who+Engineers;Frontend+Engineer+(Java+%2F+Spring+Boot);AI+Integration;Building+Scalable+Systems;Problem+Solver" />
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=1C2C5B&center=true&vCenter=true&width=700&lines=ABDUL+MUHAYMIN;Product+Designer+Who+Engineers;Frontend+Engineer+(Java+%2F+Spring+Boot);AI+Integration;Building+Scalable+Systems;Problem+Solver" />
+    </picture>
+  </a>
 </p>
 
 ### 🛠️ System Overview
