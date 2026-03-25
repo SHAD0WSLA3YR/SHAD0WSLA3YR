@@ -1,15 +1,10 @@
-# 🌌 Welcome to the Nexus | SHAD0WSLA3YR
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Abdul%20Muhaymin&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Dev%20|%20Quantum%20Explorer&descAlignY=62&descSize=20" />
 </p>
 
 ### 🛠️ System Overview
 - **🎓 Education:** MS in Computer Science @ **Wright State University** (Class of '26)
-- **📍 Location:** Fairborn, OH
 - **🚀 Mission:** Building intelligent systems that bridge the gap between human intuition and machine precision.
-- **🏆 Achievement:** Winner of the WSU CS/CE Alumni Logo Design Contest.
-
 ---
 
 ### 🏮 Project Highlights
