@@ -8,15 +8,13 @@
   </a>
 </p>
 
-### 🛠️ System Overview
-- **🎓 Education:** MS in Computer Science @ **Wright State University** (Class of '26)
-- **🚀 Mission:** Building intelligent systems that bridge the gap between human intuition and machine precision.
+### **🚀 Mission:** Building intelligent systems that bridge the gap between human intuition and machine precision.
 ---
 
 ### 🏮 Project Highlights
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[IdeaScape](https://github.com/SHAD0WSLA3YR/IdeaScape---Infinite-Canvas)** | An infinite canvas for non-linear thought. | React, Canvas API, Node.js |
+| **[IdeaScape](https://github.com/SHAD0WSLA3YR/IdeaScape)** | An infinite canvas for non-linear thought. | React, Canvas API, Node.js |
 | **WorldEye** | Real-time global data visualization and insights. | Python, AI/ML, React |
 | **VidScribe AI** | Automating the bridge between video content and textual intelligence. | OpenAI, Whisper, Next.js |
 
@@ -28,25 +26,14 @@
 </p>
 
 **Currently Deep-Diving Into:**
-* **Quantum Computing:** Exploring the frontiers of Shor's and Grover's algorithms.
-* **AI Agents:** Building autonomous systems for the AWS AI Agent Global Hackathon.
+* **AI Agents:** Building autonomous systems for Hackathons.
 
 ---
 
 ### 📊 Terminal Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SHAD0WSLA3YR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAD0WSLA3YR&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🕹️ Off-Duty Log
-When I'm not wiping Trojans or shipping code, you'll find me:
-* **Night City / Tsushima:** Cruising in *Cyberpunk 2077* or mastering the blade in *Ghost of Tsushima*.
-* **Curation:** Exploring niche fragrances or hunting for the perfect techwear jacket.
-* **Kitchen:** Experimenting with recipes (culinary engineering).
-* **Watchlist:** Catching up on the latest K-Drama.
 
 ---
 
